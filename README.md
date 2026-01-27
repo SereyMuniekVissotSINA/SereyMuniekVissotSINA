@@ -51,7 +51,7 @@ I'm passionate about building things with code from low-level **C++ fundamentals
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: *https://www.linkedin.com/in/sereymuniekvissot-sina-02453a292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app*
+- 💼 L[LinkedIn](https://www.linkedin.com/in/sereymuniekvissot-sina-02453a292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 📧 Email: *vissot004@gmail.com*
 
 ---
