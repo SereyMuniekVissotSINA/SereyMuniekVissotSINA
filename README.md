@@ -37,9 +37,9 @@ I'm passionate about building things with code from low-level **C++ fundamentals
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sereymuniekvissot&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SereyMuniekVissotSINA&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sereymuniekvissot&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SereyMuniekVissotSINA&layout=compact&theme=tokyonight)
 
 ---
 
