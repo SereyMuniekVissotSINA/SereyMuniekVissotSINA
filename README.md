@@ -20,7 +20,7 @@ I'm passionate about building things with code from low-level **C++ fundamentals
 ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=flat&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 
 ### Frontend
