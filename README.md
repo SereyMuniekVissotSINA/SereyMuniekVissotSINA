@@ -52,7 +52,7 @@ I'm passionate about building things with code from low-level **C++ fundamentals
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: *coming soon*
-- 📧 Email: *your-email@example.com*
+- 📧 Email: *vissot004@gmail.com*
 
 ---
 
