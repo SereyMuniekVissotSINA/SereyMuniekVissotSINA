@@ -42,6 +42,8 @@ I'm passionate about building things with code from low-level **C++ fundamentals
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SereyMuniekVissotSINA&layout=compact&theme=tokyonight)
 
 ---
+**Project List**
+- Byte Game: https://byte-game-xg19.vercel.app/
 
 ## 🌱 Currently Learning
 - Advanced **React patterns**
