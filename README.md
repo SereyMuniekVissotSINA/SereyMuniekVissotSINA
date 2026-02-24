@@ -48,6 +48,7 @@ I'm passionate about building things with code — from low-level **C++ fundamen
 
 ## 🚀 Projects
 - 🎮 **Byte Game** → https://byte-game-xg19.vercel.app/
+- **Code With Byte** -> https://code-with-byte-rfhc195s0-vissotsinas-projects.vercel.app
 
 ---
 
